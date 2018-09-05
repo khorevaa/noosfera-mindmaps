@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="&#x412;&#x432;&#x43e;&#x434;&#x43d;&#x430;&#x44f;" FOLDED="false" ID="ID_215852112" CREATED="1536127888417" MODIFIED="1536155252110" VGAP_QUANTITY="5.0 pt"><hook NAME="MapStyle" zoom="1.407">
+<node TEXT="&#x412;&#x432;&#x43e;&#x434;&#x43d;&#x430;&#x44f;" FOLDED="false" ID="ID_215852112" CREATED="1536127888417" MODIFIED="1536157344215" VGAP_QUANTITY="50.0 pt"><hook NAME="MapStyle" zoom="1.059">
     <properties fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
@@ -97,7 +97,7 @@
 <edge STYLE="sharp_bezier"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="FOR_BRANCHES"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="&#x41f;&#x435;&#x440;&#x438;&#x43e;&#x434;&#x44b; &#x432; &#x436;&#x438;&#x437;&#x43d;&#x438; &#x447;&#x435;&#x43b;&#x43e;&#x432;&#x435;&#x43a;&#x430;" FOLDED="true" POSITION="right" ID="ID_1030413330" CREATED="1536131568884" MODIFIED="1536154924651" HGAP_QUANTITY="77.21951513613794 pt" VSHIFT_QUANTITY="-89.56097977619541 pt">
+<node TEXT="&#x41f;&#x435;&#x440;&#x438;&#x43e;&#x434;&#x44b; &#x432; &#x436;&#x438;&#x437;&#x43d;&#x438; &#x447;&#x435;&#x43b;&#x43e;&#x432;&#x435;&#x43a;&#x430;" FOLDED="true" POSITION="right" ID="ID_1030413330" CREATED="1536131568884" MODIFIED="1536157316475" HGAP_QUANTITY="50.000001674745214 pt" VSHIFT_QUANTITY="34.24390403207471 pt">
 <node TEXT="&#x42d;&#x442;&#x430;&#x43f;&#x44b; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x44f; &#x43e;&#x440;&#x433;&#x430;&#x43d;&#x438;&#x437;&#x43c;&#x430;" ID="ID_804663293" CREATED="1536135250296" MODIFIED="1536135320705">
 <node TEXT="&#x417;&#x430;&#x447;&#x430;&#x442;&#x438;&#x435;" ID="ID_1963349379" CREATED="1536133124862" MODIFIED="1536135333651"><richcontent TYPE="DETAILS">
 
@@ -132,8 +132,8 @@
 </node>
 <node TEXT="&#x414;&#x435;&#x442;&#x441;&#x442;&#x432;&#x43e;" ID="ID_318901766" CREATED="1536132832477" MODIFIED="1536132840528">
 <node TEXT="&#x41c;&#x43b;&#x430;&#x434;&#x435;&#x43d;&#x435;&#x446;" ID="ID_1198082685" CREATED="1536132870358" MODIFIED="1536136180338">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1094839337" STARTINCLINATION="268;0;" ENDINCLINATION="268;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_493137391" STARTINCLINATION="239;0;" ENDINCLINATION="239;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1094839337" STARTINCLINATION="268;0;" ENDINCLINATION="268;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <richcontent TYPE="DETAILS">
 
 <html>
@@ -338,7 +338,7 @@
 <edge STYLE="sharp_bezier"/>
 </node>
 </node>
-<node TEXT="&#x420;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x440;&#x435;&#x431;&#x435;&#x43d;&#x43a;&#x430;" POSITION="right" ID="ID_1774616101" CREATED="1536132082933" MODIFIED="1536155193232" HGAP_QUANTITY="69.3170757441207 pt" VSHIFT_QUANTITY="-64.09756395747318 pt">
+<node TEXT="&#x420;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x440;&#x435;&#x431;&#x435;&#x43d;&#x43a;&#x430;" FOLDED="true" POSITION="right" ID="ID_1774616101" CREATED="1536132082933" MODIFIED="1536157319106" HGAP_QUANTITY="68.43902692278544 pt" VSHIFT_QUANTITY="-44.780489888097705 pt">
 <edge STYLE="sharp_bezier" COLOR="#00ffff" WIDTH="2"/>
 <node TEXT="&#x414;&#x43e; &#x448;&#x43a;&#x43e;&#x43b;&#x44b;" ID="ID_1492853957" CREATED="1536132098517" MODIFIED="1536144847157" HGAP_QUANTITY="77.21951513613794 pt" VSHIFT_QUANTITY="3.512195285340997 pt">
 <edge STYLE="sharp_bezier"/>
@@ -355,21 +355,6 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="&#x432; 4 &#x433;&#x43e;&#x434;&#x430;" ID="ID_1650228090" CREATED="1536137944291" MODIFIED="1536144835564" HGAP_QUANTITY="60.53658753076821 pt" VSHIFT_QUANTITY="156.29269019767435 pt">
-<edge STYLE="sharp_bezier"/>
-<node TEXT="&#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x43c;&#x43e;&#x442;&#x43e;&#x440;&#x438;&#x43a;&#x438;" ID="ID_174555542" CREATED="1536137394450" MODIFIED="1536144368731">
-<edge STYLE="sharp_bezier"/>
-<node TEXT="&#x431;&#x435;&#x433; &#x441; &#x43f;&#x440;&#x435;&#x43f;&#x44f;&#x442;&#x441;&#x442;&#x432;&#x438;&#x44f;&#x43c;&#x438;" ID="ID_1552989129" CREATED="1536137832218" MODIFIED="1536144368731">
-<edge STYLE="sharp_bezier"/>
-</node>
-<node TEXT="&#x43f;&#x43e;&#x434;&#x432;&#x438;&#x436;&#x43d;&#x44b;&#x435; &#x438;&#x433;&#x440;&#x44b;" ID="ID_877754618" CREATED="1536137848923" MODIFIED="1536144368732">
-<edge STYLE="sharp_bezier"/>
-</node>
-</node>
-<node TEXT="&#x443;&#x441;&#x442;&#x430;&#x43d;&#x430;&#x432;&#x43b;&#x438;&#x432;&#x430;&#x442;&#x44c; &#x446;&#x435;&#x43b;&#x438; &#x43f;&#x43e; &#x43f;&#x43e;&#x434;&#x432;&#x438;&#x436;&#x43d;&#x43e;&#x441;&#x442;&#x438;" ID="ID_1188848695" CREATED="1536138024740" MODIFIED="1536144368732">
-<edge STYLE="sharp_bezier"/>
-</node>
-</node>
 <node TEXT="" ID="ID_39098350" CREATED="1536137198509" MODIFIED="1536137198510">
 <hook NAME="FirstGroupNode"/>
 </node>
@@ -484,6 +469,23 @@
 <edge STYLE="sharp_bezier"/>
 </node>
 </node>
+<node TEXT="&#x432; 4 &#x433;&#x43e;&#x434;&#x430;" ID="ID_1650228090" CREATED="1536137944291" MODIFIED="1536144835564" HGAP_QUANTITY="60.53658753076821 pt" VSHIFT_QUANTITY="156.29269019767435 pt">
+<edge STYLE="sharp_bezier"/>
+<node TEXT="&#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x43c;&#x43e;&#x442;&#x43e;&#x440;&#x438;&#x43a;&#x438;" ID="ID_174555542" CREATED="1536137394450" MODIFIED="1536144368731">
+<edge STYLE="sharp_bezier"/>
+<node TEXT="&#x431;&#x435;&#x433; &#x441; &#x43f;&#x440;&#x435;&#x43f;&#x44f;&#x442;&#x441;&#x442;&#x432;&#x438;&#x44f;&#x43c;&#x438;" ID="ID_1552989129" CREATED="1536137832218" MODIFIED="1536144368731">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node TEXT="&#x43f;&#x43e;&#x434;&#x432;&#x438;&#x436;&#x43d;&#x44b;&#x435; &#x438;&#x433;&#x440;&#x44b;" ID="ID_877754618" CREATED="1536137848923" MODIFIED="1536144368732">
+<edge STYLE="sharp_bezier"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x435;&#x43a;&#x43e;&#x43c;&#x435;&#x43d;&#x434;&#x430;&#x446;&#x438;&#x438;" ID="ID_1681783542" CREATED="1536155831997" MODIFIED="1536155835416">
+<node TEXT="&#x443;&#x441;&#x442;&#x430;&#x43d;&#x430;&#x432;&#x43b;&#x438;&#x432;&#x430;&#x442;&#x44c; &#x446;&#x435;&#x43b;&#x438; &#x43f;&#x43e; &#x43f;&#x43e;&#x434;&#x432;&#x438;&#x436;&#x43d;&#x43e;&#x441;&#x442;&#x438;" ID="ID_1188848695" CREATED="1536138024740" MODIFIED="1536144368732">
+<edge STYLE="sharp_bezier"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="&#x428;&#x43a;&#x43e;&#x43b;&#x430;" ID="ID_971920875" CREATED="1536132245925" MODIFIED="1536144850843" HGAP_QUANTITY="100.92683331218967 pt" VSHIFT_QUANTITY="-82.53658920551342 pt">
 <edge STYLE="sharp_bezier"/>
@@ -500,6 +502,16 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="&#x43f;&#x440;&#x43e;&#x431;&#x43b;&#x435;&#x43c;&#x430;&#x442;&#x438;&#x43a;&#x430; &#x442;&#x435;&#x43a;&#x443;&#x449;&#x435;&#x439; &#x448;&#x43a;&#x43e;&#x43b;&#x44b;" ID="ID_429495067" CREATED="1536155791380" MODIFIED="1536155806182">
+<node TEXT="&#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x43f;&#x441;&#x438;&#x445;&#x438;&#x43a;&#x438; &#x437;&#x430;&#x43c;&#x435;&#x434;&#x43b;&#x435;&#x43d;&#x43e;" ID="ID_429902890" CREATED="1536132294069" MODIFIED="1536144368734">
+<edge STYLE="sharp_bezier"/>
+<node TEXT="&#x444;&#x43e;&#x440;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x432; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x435;&#xa;&#x43e;&#x431;&#x443;&#x447;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1298737475" CREATED="1536132350933" MODIFIED="1536144368735">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node TEXT="&#x434;&#x435;&#x442;&#x441;&#x442;&#x432;&#x43e; &#x434;&#x43b;&#x44f; &#x43e;&#x441;&#x432;&#x43e;&#x435;&#x43d;&#x438;&#x44f; &#x433;&#x435;&#x43d;&#x435;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#xa;&#x43d;&#x435; &#x43f;&#x435;&#x440;&#x435;&#x434;&#x430;&#x432;&#x430;&#x435;&#x43c;&#x443; &#x438;&#x43d;&#x444;&#x43e;&#x440;&#x43c;&#x430;&#x446;&#x438;&#x44e;" ID="ID_96111894" CREATED="1536132702621" MODIFIED="1536144368736">
+<edge STYLE="sharp_bezier"/>
+</node>
+</node>
 <node TEXT="&#x442;&#x435;&#x43b;&#x435;&#x441;&#x43d;&#x43e;&#x435; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x431;&#x44b;&#x441;&#x442;&#x440;&#x435;&#x435;" ID="ID_493644421" CREATED="1536132282029" MODIFIED="1536144368733">
 <edge STYLE="sharp_bezier"/>
 <node TEXT="&#x443;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x433;&#x435;&#x43d;&#x435;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x43e;&#x439;&#xa;&#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x43e;&#x439; (&#x430;&#x432;&#x442;&#x43e;)" ID="ID_518326739" CREATED="1536132317245" MODIFIED="1536144368734">
@@ -521,14 +533,6 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node TEXT="&#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x43f;&#x441;&#x438;&#x445;&#x438;&#x43a;&#x438; &#x437;&#x430;&#x43c;&#x435;&#x434;&#x43b;&#x435;&#x43d;&#x43e;" ID="ID_429902890" CREATED="1536132294069" MODIFIED="1536144368734">
-<edge STYLE="sharp_bezier"/>
-<node TEXT="&#x444;&#x43e;&#x440;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x432; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x435;&#xa;&#x43e;&#x431;&#x443;&#x447;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1298737475" CREATED="1536132350933" MODIFIED="1536144368735">
-<edge STYLE="sharp_bezier"/>
-</node>
-<node TEXT="&#x434;&#x435;&#x442;&#x441;&#x442;&#x432;&#x43e; &#x434;&#x43b;&#x44f; &#x43e;&#x441;&#x432;&#x43e;&#x435;&#x43d;&#x438;&#x44f; &#x433;&#x435;&#x43d;&#x435;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#xa;&#x43d;&#x435; &#x43f;&#x435;&#x440;&#x435;&#x434;&#x430;&#x432;&#x430;&#x435;&#x43c;&#x443; &#x438;&#x43d;&#x444;&#x43e;&#x440;&#x43c;&#x430;&#x446;&#x438;&#x44e;" ID="ID_96111894" CREATED="1536132702621" MODIFIED="1536144368736">
-<edge STYLE="sharp_bezier"/>
 </node>
 </node>
 </node>
