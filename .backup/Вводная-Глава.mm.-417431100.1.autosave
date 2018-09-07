@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="&#x412;&#x432;&#x43e;&#x434;&#x43d;&#x430;&#x44f;" FOLDED="false" ID="ID_215852112" CREATED="1536127888417" MODIFIED="1536157290676" VGAP_QUANTITY="5.0 pt"><hook NAME="MapStyle" zoom="1.059">
+<node TEXT="&#x412;&#x432;&#x43e;&#x434;&#x43d;&#x430;&#x44f;" FOLDED="false" ID="ID_215852112" CREATED="1536127888417" MODIFIED="1536157344215" VGAP_QUANTITY="50.0 pt"><hook NAME="MapStyle" zoom="1.059">
     <properties fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
@@ -97,7 +97,7 @@
 <edge STYLE="sharp_bezier"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="FOR_BRANCHES"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="&#x41f;&#x435;&#x440;&#x438;&#x43e;&#x434;&#x44b; &#x432; &#x436;&#x438;&#x437;&#x43d;&#x438; &#x447;&#x435;&#x43b;&#x43e;&#x432;&#x435;&#x43a;&#x430;" FOLDED="true" POSITION="right" ID="ID_1030413330" CREATED="1536131568884" MODIFIED="1536157290675" HGAP_QUANTITY="49.121952853409965 pt" VSHIFT_QUANTITY="207.2195218351188 pt">
+<node TEXT="&#x41f;&#x435;&#x440;&#x438;&#x43e;&#x434;&#x44b; &#x432; &#x436;&#x438;&#x437;&#x43d;&#x438; &#x447;&#x435;&#x43b;&#x43e;&#x432;&#x435;&#x43a;&#x430;" POSITION="right" ID="ID_1030413330" CREATED="1536131568884" MODIFIED="1536157316475" HGAP_QUANTITY="50.000001674745214 pt" VSHIFT_QUANTITY="34.24390403207471 pt">
 <node TEXT="&#x42d;&#x442;&#x430;&#x43f;&#x44b; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x44f; &#x43e;&#x440;&#x433;&#x430;&#x43d;&#x438;&#x437;&#x43c;&#x430;" ID="ID_804663293" CREATED="1536135250296" MODIFIED="1536135320705">
 <node TEXT="&#x417;&#x430;&#x447;&#x430;&#x442;&#x438;&#x435;" ID="ID_1963349379" CREATED="1536133124862" MODIFIED="1536135333651"><richcontent TYPE="DETAILS">
 
@@ -338,7 +338,7 @@
 <edge STYLE="sharp_bezier"/>
 </node>
 </node>
-<node TEXT="&#x420;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x440;&#x435;&#x431;&#x435;&#x43d;&#x43a;&#x430;" POSITION="right" ID="ID_1774616101" CREATED="1536132082933" MODIFIED="1536155193232" HGAP_QUANTITY="69.3170757441207 pt" VSHIFT_QUANTITY="-64.09756395747318 pt">
+<node TEXT="&#x420;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x440;&#x435;&#x431;&#x435;&#x43d;&#x43a;&#x430;" POSITION="right" ID="ID_1774616101" CREATED="1536132082933" MODIFIED="1536157319106" HGAP_QUANTITY="68.43902692278544 pt" VSHIFT_QUANTITY="-44.780489888097705 pt">
 <edge STYLE="sharp_bezier" COLOR="#00ffff" WIDTH="2"/>
 <node TEXT="&#x414;&#x43e; &#x448;&#x43a;&#x43e;&#x43b;&#x44b;" ID="ID_1492853957" CREATED="1536132098517" MODIFIED="1536144847157" HGAP_QUANTITY="77.21951513613794 pt" VSHIFT_QUANTITY="3.512195285340997 pt">
 <edge STYLE="sharp_bezier"/>
@@ -485,6 +485,9 @@
 <edge STYLE="sharp_bezier"/>
 </node>
 </node>
+</node>
+<node TEXT="&#x432; 5 &#x43b;&#x435;&#x442;" ID="ID_1764672662" CREATED="1536318476310" MODIFIED="1536318482734">
+<node TEXT="&#x443;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x43e;&#x435; &#x43f;&#x440;&#x435;&#x43e;&#x434;&#x43e;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x43f;&#x440;&#x435;&#x43f;&#x44f;&#x442;&#x441;&#x442;&#x432;&#x438;&#x439;" ID="ID_415006370" CREATED="1536318484259" MODIFIED="1536318500040"/>
 </node>
 </node>
 <node TEXT="&#x428;&#x43a;&#x43e;&#x43b;&#x430;" ID="ID_971920875" CREATED="1536132245925" MODIFIED="1536144850843" HGAP_QUANTITY="100.92683331218967 pt" VSHIFT_QUANTITY="-82.53658920551342 pt">
